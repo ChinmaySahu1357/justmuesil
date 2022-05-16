@@ -1,0 +1,16 @@
+C:\Users\chinm\source\repos\newagain\newagain\bin\Debug\newagain.exe.config
+C:\Users\chinm\source\repos\newagain\newagain\bin\Debug\newagain.exe
+C:\Users\chinm\source\repos\newagain\newagain\bin\Debug\newagain.pdb
+C:\Users\chinm\source\repos\newagain\newagain\obj\Debug\newagain.csproj.AssemblyReference.cache
+C:\Users\chinm\source\repos\newagain\newagain\obj\Debug\newagain.csproj.SuggestedBindingRedirects.cache
+C:\Users\chinm\source\repos\newagain\newagain\obj\Debug\newagain.Properties.Resources.resources
+C:\Users\chinm\source\repos\newagain\newagain\obj\Debug\newagain.csproj.GenerateResource.cache
+C:\Users\chinm\source\repos\newagain\newagain\obj\Debug\newagain.csproj.CoreCompileInputs.cache
+C:\Users\chinm\source\repos\newagain\newagain\obj\Debug\newagain.exe
+C:\Users\chinm\source\repos\newagain\newagain\obj\Debug\newagain.pdb
+C:\Users\chinm\source\repos\newagain\newagain\obj\Debug\newagain.frmMenu.resources
+C:\Users\chinm\source\repos\newagain\newagain\obj\Debug\newagain.frmEditCustomerDetail.resources
+C:\Users\chinm\source\repos\newagain\newagain\obj\Debug\newagain.frmDataCollection.resources
+C:\Users\chinm\source\repos\newagain\newagain\obj\Debug\newagain.frmMixes.resources
+C:\Users\chinm\source\repos\newagain\newagain\obj\Debug\newagain.frmOrder.resources
+C:\Users\chinm\source\repos\newagain\newagain\obj\Debug\newagain.frmMyMuesilMixes.resources
